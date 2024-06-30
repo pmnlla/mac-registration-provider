@@ -3,6 +3,8 @@ A small service that generates iMessage registration data on a Mac. If you do
 not have access to Beeper Cloud, you can use this to generate an iMessage
 registration code and use it in Beeper Mini.
 
+Patched for 13.6.7
+
 ## Supported MacOS versions
 The tool is currently quite hacky, so it only works on specific versions of macOS.
 
